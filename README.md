@@ -5,7 +5,7 @@ In this project we focus on the pre-process and process of creating a ML model t
 
 The dataset is extracted from Kaggle.
 
-The process:
+The process: /n
 1.- We check the dataset.
 2.- Check for outliers
 3.- Removing outliers.
